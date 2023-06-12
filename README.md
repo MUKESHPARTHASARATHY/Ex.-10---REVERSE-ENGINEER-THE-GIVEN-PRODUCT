@@ -37,8 +37,8 @@
 ![exp103](https://github.com/SivaChandranR07/Ex.-10---REVERSE-ENGINEER-THE-GIVEN-PRODUCT/assets/113497395/6ffefabb-79cc-4461-b719-28bdfbbec6d6)
 
 
-### Name: Abishek Xavier A
-### Register Number: 212222230004
+### Name: MUKESH P
+### Register Number: 212222240068
 
 ## RESULT:
 ###   Thus the given product is reverse engineered and prototyped using 3D Printer.
